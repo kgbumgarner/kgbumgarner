@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Smart contracts with Python.
 - 💞️ I’m looking for an internship for summer 2022
 - 📫 How to reach me:
-  kgbumgarner@gmail.com
-  (210) 860 - 8264
+-- Email: kgbumgarner@gmail.com
+-- Phone: (210) 860 - 8264
 
 <!---
 kgbumgarner/kgbumgarner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
