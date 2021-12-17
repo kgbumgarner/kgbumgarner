@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgbumgarner (Kevin Bumgarner)
 - 🎓 I'm currently a student at Auburn University studying software engineering.
-- 👀 I’m interested in AI and Machine learning, Block chain technologies, and consulting.
+- 👀 I’m interested in AI and Machine learning, block chain technologies, and consulting.
 - 🌱 I’m currently learning Python and its capabilities.
 - 💞️ I’m looking for an internship for summer 2022
 - 📫 How to reach me:
