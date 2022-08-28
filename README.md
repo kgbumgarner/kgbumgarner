@@ -12,6 +12,24 @@ I'm currently a **Software Engineering** student at Auburn University, graduatin
 - I’m interested in AI and machine learning, Project Management, and consulting.
 - I’m currently learning [Svelte](https://svelte.dev/), an open-source front end compliler.
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+-
+-
+-
+-
+-
+
 ### Course Work 📘
 > <a href="https://github.com/kgbumgarner/Undergrad/tree/main/COMP%201210" target="_blank" style="text-decorations:none; color:inherit;">COMP-1210 : _Fundamentals of Computing I_</a>
 > 
